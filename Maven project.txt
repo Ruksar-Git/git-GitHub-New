@@ -1,0 +1,14 @@
+HI am new Devops tool.
+Its an Software development tool.
+where the developers and the testers work simultaniously....
+*the main moto of the DevOps Engineer is the:-
+ 
+1.Contineous Developement; {Developers Uses Tool:Git} and BUild the code Using the Maven or Griddel
+
+2.Contineous Testing; {Selinium} 
+             
+3.COntineous Integration; {Jenkins}
+
+4.Contenious Deployment; {Docker,Puppet, Chef,Ansible}
+
+5.Continious MOnitoring; {Negios}
