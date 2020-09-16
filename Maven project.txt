@@ -1,4 +1,4 @@
-HI am new Devops tool.
+HI am new to learn Devops tool.
 Its an Software development tool.
 where the developers and the testers work simultaniously....
 *the main moto of the DevOps Engineer is the:-
